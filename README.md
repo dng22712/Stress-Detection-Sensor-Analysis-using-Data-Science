@@ -1,6 +1,6 @@
 # Assignment-University-Trials-2202203
 Stress Detection with Wearable Sensors
-This is a data science project developed by Dhanush Nalinikantha Gowda for a company that has developed a wearable watch with multiple sensors. The goal of the project is to investigate whether the sensors can be used to predict stress and develop a new feature that alerts a user when they're getting stressed. The project involves two assignments:
+This is a data science project developed for a company that has developed a wearable watch with multiple sensors. The goal of the project is to investigate whether the sensors can be used to predict stress and develop a new feature that alerts a user when they're getting stressed. The project involves two assignments:
 
  Load, explore, clean, and preprocess the data set. Identify which signals might be better candidates for predicting stress.
  Develop a machine learning model to predict stress using the cleaned data set. Present findings and recommendations in a report.
@@ -25,4 +25,4 @@ Future Work
 There are several avenues for future work and improvements in this project. One potential area for improvement is in the feature engineering stage, where more domain knowledge could be incorporated to improve the accuracy of the model. Additionally, further testing could be done to ensure that the model performs well across different populations and is not biased towards a specific group.
 
 Contact
-If you have any questions or feedback on this project, please contact Dhanush at dg22712@essex.ac.uk.
+If you have any questions or feedback on this project, please contact at dg22712@essex.ac.uk.
