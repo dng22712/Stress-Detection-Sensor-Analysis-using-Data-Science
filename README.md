@@ -15,9 +15,6 @@ pip install -r requirements.txt
 Data
 The data set used in this project is provided by a university that has run a pilot test with some volunteers. The data set is included in this repository in the data folder.
 
-Usage
-To reproduce the results, follow the steps outlined in the Jupyter notebooks for Assignment 1 and Assignment 2 in the notebooks folder.
-
 Results
 The results of this project can be found in the report Stress_Detection_Report.pdf. The report includes an analysis of the data, details on the machine learning model developed, and recommendations for the company.
 
