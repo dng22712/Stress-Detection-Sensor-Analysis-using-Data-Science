@@ -9,7 +9,7 @@ To get started with this project, clone this repository and install the required
 
 bash
 Copy code
-git clone https://github.com/[Your Username]/stress-detection.git
+git clone https://github.com/dg22712/stress-detection.git
 cd stress-detection
 pip install -r requirements.txt
 Data
@@ -25,4 +25,4 @@ Future Work
 There are several avenues for future work and improvements in this project. One potential area for improvement is in the feature engineering stage, where more domain knowledge could be incorporated to improve the accuracy of the model. Additionally, further testing could be done to ensure that the model performs well across different populations and is not biased towards a specific group.
 
 Contact
-If you have any questions or feedback on this project, please contact [Your Name] at [Your Email].
+If you have any questions or feedback on this project, please contact Dhanush at dg22712@essex.ac.uk.
