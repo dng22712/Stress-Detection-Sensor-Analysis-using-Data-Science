@@ -1,4 +1,4 @@
-# Assignment-University-Trials-2202203
+# Stress Detection Sensor Analysis using Data Science
 Stress Detection with Wearable Sensors
 This is a data science project developed for a company that has developed a wearable watch with multiple sensors. The goal of the project is to investigate whether the sensors can be used to predict stress and develop a new feature that alerts a user when they're getting stressed. The project involves two assignments:
 
